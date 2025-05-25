@@ -1,0 +1,4 @@
+Belajar Python
+- Sintaks Dasar
+- Variable dan Tipe Data
+- Input dan Output
